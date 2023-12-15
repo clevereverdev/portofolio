@@ -26,13 +26,21 @@ The Personal File Manager is a web-based application designed to help users mana
 - **GitHub:** [Your GitHub Profile URL]
 
 ## Installation and Setup
-(Include steps for installing and setting up your project locally, if applicable)
+## Getting Started
 
-## Contributing
-(Provide guidelines if you are open to contributions to this project)
+First, run the development server:
 
-## License
-(Include license information, if applicable)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-## Acknowledgments
-(Optionally thank anyone or reference any resources that helped you in building this project)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
