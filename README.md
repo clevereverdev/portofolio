@@ -7,7 +7,7 @@
 - **Education:** Graduate (California State University of Chico Fall 2021 - Fall 2023)
 - **Contact:** amritvirrandhawa@gmail.com
 - **GitHub:** [https://github.com/clevereverdev](https://github.com/clevereverdev)
-- 
+  
 ## Project Overview
 The Personal File Manager is a web-based application designed to help users manage their school and personal documents efficiently. Built with Next.js, React, Firebase, TailwindCSS, and NextAuth, this platform offers a user-friendly interface and advanced features for document management.
 
