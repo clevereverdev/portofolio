@@ -29,7 +29,7 @@ The Personal File Manager is a web-based application designed to help users mana
 ![Home Screen](images/HomePage.png)
 ![Search Files](images/Search.png)
 ![Lock a File](images/SetPassword.png)
-![Show Locked File](images/LockedIconFile.png)
+![Show Locked File](images/lockedIconFile.png)
 ![UnLock a File](images/UnlockFile.png)
 ![Image Gallery](images/Photos.png)
 
