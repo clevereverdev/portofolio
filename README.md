@@ -1,6 +1,14 @@
 # Personal File Manager Website
 
-## Overview
+## About Me
+### [Amritvir Randhawa]
+- **Role:** Full-Stack Developer, Mobile developer
+- **Skills:** Next.js, React, Firebase, TailwindCSS, NextAuth, Dart, Django, Python, HTML, CSS, Javascript
+- **Education:** Graduate (California State University of Chico Fall 2021 - Fall 2023)
+- **Contact:** amritvirrandhawa@gmail.com
+- **GitHub:** https://github.com/clevereverdev
+- 
+## Project Overview
 The Personal File Manager is a web-based application designed to help users manage their school and personal documents efficiently. Built with Next.js, React, Firebase, TailwindCSS, and NextAuth, this platform offers a user-friendly interface and advanced features for document management.
 
 ## Features
@@ -16,14 +24,19 @@ The Personal File Manager is a web-based application designed to help users mana
 - **Backend and Database:** Firebase
 - **Styling:** TailwindCSS
 
-## About Me
-### [Your Name]
-- **Role:** Full-Stack Developer
-- **Skills:** Next.js, React, Firebase, TailwindCSS, NextAuth, [Other Skills]
-- **Education:** [Your Educational Background]
-- **Contact:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL]
+## Project User Interface
+
+![Main Interface](images/main-interface.jpg)
+![Document Upload Feature](images/upload-feature.jpg)
+![Document Organization](images/document-organization.jpg)
+
+## Download Project
+
+For a complete copy of the project, download the ZIP file:
+
+[Download Project ZIP](https://github.com/clevereverdev/Documo/archive/refs/heads/main.zip)
+
+
 
 ## Installation and Setup
 ## Getting Started
